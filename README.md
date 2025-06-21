@@ -61,9 +61,21 @@ It’s built for DFIR professionals, forensic analysts, and cybersecurity resear
 
 <!-- Add screenshots after uploading them to your repo -->
 <p align="center">
-  <img src="assets/1.png" width="700"/>
+  <img src="assets/main_page.png" width="700"/>
   <br/>
-  <em>Figure 1: Clean UI and workflow</em>
+  <em>Figure 1: Dashboard</em>
+</p>
+
+<p align="center">
+  <img src="assets/select%20partition.png" width="700"/>
+  <br/>
+  <em>Figure 2: Disk Partitions</em>
+</p>
+
+<p align="center">
+  <img src="assets/processing_log.png" width="700"/>
+  <br/>
+  <em>Figure 3: Processing of image</em>
 </p>
 
 ---
@@ -121,7 +133,7 @@ MIT License. See `LICENSE` file for more details.
 ## 🙌 Acknowledgments
 
 - [Akhil Dara](https://www.linkedin.com/in/akhil-dara/)
-- [Ramakrishna](https://www.linkedin.com/in/jnana-ramakrishna/)
+- [Jnana Ramakrishna](https://www.linkedin.com/in/jnana-ramakrishna/)
 - [Eric Zimmerman Tools](https://ericzimmerman.github.io/)
 - [Hindsight by Ryan Benson](https://github.com/obsidianforensics/hindsight)
 - [RegRipper by Harlan Carvey](https://github.com/keydet89/RegRipper4.0)
