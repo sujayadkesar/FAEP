@@ -5,10 +5,10 @@
 
   <p>
     <img src="https://img.shields.io/badge/forensics-automation-blue?style=flat-square" />
-    <img src="https://img.shields.io/github/license/yourusername/AutoForenParse?style=flat-square" />
-    <img src="https://img.shields.io/github/stars/yourusername/AutoForenParse?style=flat-square" />
-    <img src="https://img.shields.io/github/issues/yourusername/AutoForenParse?style=flat-square" />
-    <img src="https://img.shields.io/github/languages/top/yourusername/AutoForenParse?style=flat-square" />
+    <img src="https://img.shields.io/github/license/sujayadkesar/FAEP?style=flat-square" />
+    <img src="https://img.shields.io/github/stars/sujayadkesar/FAEP?style=flat-square" />
+    <img src="https://img.shields.io/github/issues/sujayadkesar/FAEP?style=flat-square" />
+    <img src="https://img.shields.io/github/languages/top/sujayadkesar/FAEP?style=flat-square" />
   </p>
 </div>
 
