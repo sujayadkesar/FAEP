@@ -1,0 +1,9 @@
+user input: C:\Users\2482964\Desktop\TAPE\tools\hayabusa-3.0.1-win-x64\hayabusa-3.0.1-win-x64.exe computer-metrics -d ..\..\output\eventlogs\
+[ERROR] Failed to parse event file.
+EventFile: ..\..\output\eventlogs\Logs\Application.evtx
+Error: Failed to parse chunk number 11
+
+[ERROR] Failed to parse event file.
+EventFile: ..\..\output\eventlogs\Logs\Microsoft-Windows-Ntfs%4Operational.evtx
+Error: Failed to parse chunk number 12
+

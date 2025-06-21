@@ -1,0 +1,5 @@
+user input: C:\Users\2482964\Desktop\TAPE\tools\hayabusa-3.0.1-win-x64\hayabusa-3.0.1-win-x64.exe csv-timeline -d ..\..\output\eventlogs\Logs\ -o csv-timeline.csv
+[ERROR] Failed to parse event file.
+EventFile: ..\..\output\eventlogs\Logs\Application.evtx
+Error: Failed to parse chunk number 11
+
