@@ -140,5 +140,5 @@ MIT License. See `LICENSE` file for more details.
 
 ---
 ```
-digital forensics, E01 parser, amcache parser, registry parser, forensic automation tool, DFIR, hindsight automation, SRUM parser, artifact extractor, python forensic tool, AutoForenParse, forensic artifacts parser
+digital forensics, E01 parser, amcache parser, registry parser, forensic automation tool, DFIR, hindsight automation, SRUM parser, artifact extractor, python forensic tool, AutoForenParse, Forensic artifacts parser
 ```
